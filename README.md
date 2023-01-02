@@ -1,0 +1,2 @@
+# curriculum
+ just educational
