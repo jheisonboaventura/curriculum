@@ -1,0 +1,55 @@
+#body {
+  border-radius: 500;
+}
+#name {
+  text-align: center;
+  color: rgb(78, 80, 80);
+  font-family: "Times New Roman", Times, serif;
+}
+#tel_edress {
+  text-align: center;
+  color: rgb(78, 80, 80);
+  font-family: "Times New Roman", Times, serif;
+}
+#email {
+  text-align: center;
+  color: rgb(45, 190, 76);
+}
+#experiencia {
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 100px;
+}
+#objetivo {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+#data_experiencia {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+#Educacao {
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 100px;
+}
+#data_educacao {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+#habilidade {
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 100px;
+}
+#data_habilidade {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+#atividades {
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 100px;
+}
+#data_atividades {
+  padding-left: 150px;
+  padding-right: 150px;
+}
